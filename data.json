@@ -1,0 +1,40 @@
+{
+    "user": {
+        "firstName": "Jorden",
+        "lastName": "Kramer",
+        "email": "jkramer@pm.me",
+        "phone": "+1 (653) 723-5323"
+    },
+    "created": "2022-12-26T15:46:07.264Z",
+    "status": "New",
+    "updated": "2023-01-08T07:34:13.263Z",
+    "business": {
+        "name": "Jorden Kramer",
+        "industry": "GENERAL BUSINESS",
+        "registrationNumber": "659",
+        "estimatedAnnualTurnover": "R2,000,000 - R4,999,999",
+        "description": "Et perferendis quam ",
+        "addressLine1": "740 White Nobel Boulevard",
+        "addressLine2": "Nulla illo corrupti",
+        "city": "Soluta consequatur ",
+        "existingInsurance": true,
+        "generateQuoteFromExisting": false,
+        "postalCode": "Rerum voluptas delen",
+        "province": "North-West Province (NW)",
+        "recentClaims": [
+            {
+                "description": "C0: Consequuntur nisi qu",
+                "value": "53",
+                "type": "Motor",
+                "date": "1997-02-20"
+            },
+            {
+                "description": "C1: Consequuntur nisi qu",
+                "value": "53",
+                "type": "Motor",
+                "date": "1997-02-20"
+            }
+        ]
+    },
+    "reference": "4X923QHWE"
+}
